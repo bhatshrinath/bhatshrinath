@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinath Bhat</h1>
-<h3 align="center">Analytics Manager with 4+ years of experience spearheading Al/ML teams. I hold a B.Tech Degree from IIT Madras and a strong academic background.</h3>
+<h3 align="center">Analytics Manager with 4+ years of experience spearheading Al & ML teams. I hold a B.Tech Degree from IIT Madras and a strong academic background.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatshrinath&label=Profile%20views&color=0e75b6&style=flat" alt="bhatshrinath" /> </p>
 
