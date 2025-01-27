@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Shrinath Bhat</h1>
 <h3 align="center">Analytics Manager with 4+ years of Experience Spearheading Al & ML teams. I hold a B.Tech Degree from IIT Madras and a Strong Academic Background.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatshrinath&label=Profile%20views&color=0e75b6&style=flat" alt="bhatshrinath" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatshrinath&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhatshrinath" alt="bhatshrinath" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhatshrinath" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **WatchTower (Resource Allocation)**
 
