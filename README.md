@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhatshrinath" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **WatchTower (Resource Allocation)**
+- 🚀 I’m currently working on **Enterprise AI, Machine Learning, and Analytics solutions at Hector Beverages.**
 
-- 🌱 I’m currently learning **Advanced Machine Learning Frameworks in TensorFlow. Additionally, I’m taking courses on Azure Cloud Computing Platform, focusing on Deploying ML models in Production.**
+- 🌱 I’m currently learning **Advanced Machine Learning, Generative AI, Large Language Models, RAG, AI Agents, and MLOps for production-scale AI systems.**
 
-- 💻 To know more about me visit [Personal Portfolio Website](https://bhatshrinath.github.io/)
+- 💻 To know more about me, visit **https://bhatshrinath.github.io/**
 
-- 📝 I regularly write articles on [Medium Account](https://medium.com/@bhatshrinath41)
+- 📝 I regularly write articles on **Medium:** **https://medium.com/@bhatshrinath41**
 
-- 💬 Ask me about **Python, Data Science Algorithms (Regression, Classification, Clustering, Recommendation Engine, Time Series, Optimization & Anomaly Detection), etc.**
+- 💬 Ask me about **Python, Data Science Algorithms (Regression, Classification, Clustering, Recommendation Systems, Time Series Forecasting, Optimization & Anomaly Detection).**
 
-- 📫 How to reach me **bhatshrinath41@gmail.com**
+- 📫 How to reach me: **[bhatshrinath41@gmail.com](mailto:bhatshrinath41@gmail.com)**
 
-- ⚡ Fun fact **I am both Lazy and a Sports Enthusiast!**
+- ⚡ Fun fact: **I'm both lazy and a sports enthusiast!**
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
