@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Machine Learning, Generative AI, Large Language Models, RAG, AI Agents, and MLOps for production-scale AI systems.**
 
-- 💻 To know more about me, visit **https://bhatshrinath.github.io/**
+- 💻 To know more about me, visit **https://bhatshrinath.github.io**
 
 - 📝 I regularly write articles on **Medium:** **https://medium.com/@bhatshrinath41**
 
