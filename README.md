@@ -1,6 +1,6 @@
-![logo](https://github.com/bhatshrinath/bhatshrinath/blob/main/Shrinath_Bhat_Analytics_Manager_Banner.jpeg)
+![logo](https://github.com/bhatshrinath/bhatshrinath/blob/main/Shrinath Bhat Banner.png)
 <h1 align="center">Hi 👋, I'm Shrinath Bhat</h1>
-<h3 align="center">Senior Manager - Data Analytics with 5+ years of Experience Spearheading Al & ML teams. I hold a B.Tech Degree from IIT Madras and a Strong Academic Background.</h3>
+<h3 align="center">Head of AI & Analytics at Hector Beverages with 6+ years of experience leading AI, ML, and Analytics teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatshrinath&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
