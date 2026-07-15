@@ -1,4 +1,4 @@
-![logo]("https://github.com/bhatshrinath/bhatshrinath/blob/main/Shrinath Bhat Banner.png")
+![logo](https://github.com/bhatshrinath/bhatshrinath/blob/main/Shrinath_Bhat_Banner.png)
 <h1 align="center">Hi 👋, I'm Shrinath Bhat</h1>
 <h3 align="center">Head of AI & Analytics at Hector Beverages with 6+ years of experience leading AI, ML, and Analytics teams.</h3>
 
